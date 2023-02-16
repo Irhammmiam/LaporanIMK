@@ -1,0 +1,44 @@
+District 
+pertama yaitu ada district destination atau daerah destinasi di negara srilanka, kita menampilkan
+dengan tampilan bar chart karena kita ingin mengetahui dimana daerah yang sering dikunjungi
+atau yang populer dikunjungi oleh para tourist atau wisatawan yang berwisata di negara srilanka,
+kenapa menampilkan tempat wisata yang sering dikunjungi srilanka ? karena kita ingin 
+wisatawan yang berwisata ke srilanka tau bahwa tempat ini sering dikunjungi dan 
+populer maka mereka harus mencobanya untuk berwisata di tempat wisata tersebut.
+
+Types
+selanjutnya kita membuat distribution of destination types, atau distribusi type pada wisata-wisata
+yang ada di srilanka, kita menampilkan type dari wisata yang ada di srilanka yaitu ada...,
+dimana kita ingin para tourist atau wisatawan memilih sebuah wisata yang diinginkan mereka. 
+kita juga menampilkan dengan bar chart karena kita ingin mengetahui
+dari type wisata di srilanka ada berapa jumlah dari masing-masing type wisata untuk memudahkan 
+para tourist atau wisatawan mengetahui type tempat wisata apa saja yang ada di srilanka.
+
+Grade
+selanjutnya kita ada grade atau nilai pada destination atau tempat wisata pada negara srilanka, 
+kita menampilkan menggunakan pie chart untuk menampilkan keseluruhan tempat wisata 
+di srilanka mempunyai nilai pada setiap tempat wisatanya dan kita mendapatkan
+bahwa tempat-tempat wisata di srilanka yaitu bernilai A sebanyak persen dan B persen maka 
+bisa diketahui bahwa tempat wisata di srilanka terbilang bagus
+
+Visual Map 
+selanjutnya kita menampilkan visual map nya pada negara srilanka, kenapa kita menampilkan 
+visual map negara srilanka ? karena kita ingin para tourist atau wisata bahwa tempat 
+wisatanya berada pada daerah yang kita tunjukan pada visual map dan memudahkan para tourist
+atau wisatawan lebih mudah menuju tempat wisata yang ingin dikunjungi
+
+Pick Destination
+selanjutnya di pick destination ini kita memunculkan data tempat wisata di srilanka dan ada geomap,
+kenapa kita membuat seperti ini ? karena kita ingin para tourist memudahkan menemukan tempat 
+wisata yang spesifikasinya ingin mereka kunjungi, contohnya seperti kita ingin menuju
+tempat wisata yaitu tourist shops kita tinggal memilih type tempatnya maka kita akan menampilkan 
+dimana daerah tourist shops tersebut pada geomap untuk memudahkan para tourist 
+menseleksi tujuan yang terdekat atau terpopuler pada tempat tourist shops tersebut.
+
+Top tourist
+yang terakhir kita membuat top tourist dengan menampilkan data dan barchart karena kita disini
+mencoba untuk menscraping para wisatawan yang sering berkunjung ke beberapa negara yang sering
+dikunjungi atau yang terpopuler, maka dari itu kita mencoba untuk membuat suatu aplikasi ini 
+bahwa di asia atau tepatnya di negara srilanka juga ada tempat wisata yang terbilang bagus
+untuk spot spot wisata yang nyaman dikunjungi.
+
